@@ -1,0 +1,12 @@
+# Core dependencies
+numpy
+pandas
+jupyter
+jupytext
+pipdeptree
+when-changed
+python-dotenv
+pre-commit
+
+# Requests
+requests
